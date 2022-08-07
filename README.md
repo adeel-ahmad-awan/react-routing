@@ -1,6 +1,6 @@
 # React Routing
 
-In this application, I a simple quotes application, that shows quotes and give a feature to create new quotes. Add comments to quotes etc.
+In this application, I made a simple quotes application, that shows quotes and give a feature to create new quotes. Add comments to quotes etc.
 
 In this application, the following concepts are covered.
 - Working with Query Parameters
