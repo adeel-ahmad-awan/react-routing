@@ -1,24 +1,23 @@
 # React Routing
 
-<!-- In this application, I have made a cart logic for adding and removing items from the cart. 
-I have usedthe following concepts.
+In this application, I a simple quotes application, that shows quotes and give a feature to create new quotes.
 
-- using redux and redux-toolkit for state management 
-- use single data store for redux
-- using multiple reducers for state management
-- handling http states and feedback with redux
-- using action creator "THUNK"
-- handling async code in side-effects
- -->
+In this application, the following concepts are covered.
+- Working with Query Parameters
+- Preventing Unwanted Route Transitions with the "Prompt" Component
+- Programmatic navigation
+- handling 404 Not Found routes
+- Nested routes
+- Sending & Getting Data via Http
 
 ### Screen shots
 
-<!-- home page
+home page
 ![Screen shot 1](screenshots/1.png "Screen shot 1")
 
 Added item to the cart, which also sends to server.
 ![Screen shot with empty input](screenshots/2.png "Screen shot with empty input")
 
 home page with Cart
-![Screen shot with empty input](screenshots/3.png "Screen shot with empty input") -->
+![Screen shot with empty input](screenshots/3.png "Screen shot with empty input")
 
